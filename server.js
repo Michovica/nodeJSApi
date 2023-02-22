@@ -13,3 +13,5 @@ const subscriberRouter = require('./routers/subscribers')
 app.use('/subscribers', subscriberRouter)
 
 app.listen(3000, () => console.log("server started"))
+
+//tteste
